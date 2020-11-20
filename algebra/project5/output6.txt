@@ -1,0 +1,2 @@
+the number of bases of the vector space Z^6_2 over Z_2 is 20158709760 
+
