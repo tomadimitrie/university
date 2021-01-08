@@ -1,0 +1,17 @@
+there are 5 matrices A ∈ M_(2, 2)(Z_2) in reduced echelon form
+
+ 0  0 
+ 0  0 
+
+ 0 [1]
+ 0  0 
+
+[1] 0 
+ 0  0 
+
+[1] 1 
+ 0  0 
+
+[1] 0 
+ 0 [1]
+
