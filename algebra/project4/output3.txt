@@ -1,0 +1,17 @@
+there are 3 abelian group structures on a set with 3 elements
+
+for identity element a_1:
+a1 a2 a3
+a2 a3 a1
+a3 a1 a2
+
+for identity element a_2:
+a2 a1 a3
+a1 a3 a2
+a3 a2 a1
+
+for identity element a_3:
+a3 a1 a2
+a1 a2 a3
+a2 a3 a1
+

@@ -1,0 +1,86 @@
+there are 16 abelian group structures on a set with 4 elements
+
+for identity element a_1:
+a1 a2 a3 a4
+a2 a1 a4 a3
+a3 a4 a1 a2
+a4 a3 a2 a1
+
+a1 a2 a3 a4
+a2 a1 a4 a3
+a3 a4 a2 a1
+a4 a3 a1 a2
+
+a1 a2 a3 a4
+a2 a3 a4 a1
+a3 a4 a1 a2
+a4 a1 a2 a3
+
+a1 a2 a3 a4
+a2 a4 a1 a3
+a3 a1 a4 a2
+a4 a3 a2 a1
+
+for identity element a_2:
+a2 a1 a3 a4
+a1 a2 a4 a3
+a3 a4 a1 a2
+a4 a3 a2 a1
+
+a2 a1 a3 a4
+a1 a2 a4 a3
+a3 a4 a2 a1
+a4 a3 a1 a2
+
+a2 a1 a3 a4
+a1 a3 a4 a2
+a3 a4 a2 a1
+a4 a2 a1 a3
+
+a2 a1 a3 a4
+a1 a4 a2 a3
+a3 a2 a4 a1
+a4 a3 a1 a2
+
+for identity element a_3:
+a3 a1 a2 a4
+a1 a2 a4 a3
+a2 a4 a3 a1
+a4 a3 a1 a2
+
+a3 a1 a2 a4
+a1 a3 a4 a2
+a2 a4 a1 a3
+a4 a2 a3 a1
+
+a3 a1 a2 a4
+a1 a3 a4 a2
+a2 a4 a3 a1
+a4 a2 a1 a3
+
+a3 a1 a2 a4
+a1 a4 a3 a2
+a2 a3 a4 a1
+a4 a2 a1 a3
+
+for identity element a_4:
+a4 a1 a2 a3
+a1 a2 a3 a4
+a2 a3 a4 a1
+a3 a4 a1 a2
+
+a4 a1 a2 a3
+a1 a3 a4 a2
+a2 a4 a3 a1
+a3 a2 a1 a4
+
+a4 a1 a2 a3
+a1 a4 a3 a2
+a2 a3 a1 a4
+a3 a2 a4 a1
+
+a4 a1 a2 a3
+a1 a4 a3 a2
+a2 a3 a4 a1
+a3 a2 a1 a4
+

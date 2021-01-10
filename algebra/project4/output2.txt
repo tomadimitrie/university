@@ -1,0 +1,10 @@
+there are 2 abelian group structures on a set with 2 elements
+
+for identity element a_1:
+a1 a2
+a2 a1
+
+for identity element a_2:
+a2 a1
+a1 a2
+
